@@ -1,0 +1,4 @@
+Here I am creating NUMBER GAME in that user have to guess numbers .
+it generate a random number within a specified range, such as 1 to 100 for gusseing the number.Prompt the user to enter their guess for the generated number.it Compare the user's guess with the generated number and provide feedback on whether the guess
+is correct, too high, or too low.Repeat steps 2 and 3 until the user guesses the correct number.Limit the number of attempts the user has to guess the number for example user can gusse in 5 times only. Add the option for multiple rounds, allowing the user to play again.
+number game is isplays the user's score, which can be based on the number of attempts taken or rounds won.
