@@ -1,0 +1,2 @@
+STUDENT GRADE CALCULATOR is basically the calculator that calculate students grades that input as a marks out of hundred.it sum up the marks obtained in all subjectsand divide the total marks by the total number of subjects to get the
+average percentage.Assign grades based on the average percentage achieved and Show the total marks, average percentage, and the corresponding grade to the user.
