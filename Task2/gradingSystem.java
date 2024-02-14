@@ -25,7 +25,7 @@ public class gradingSystem {
         }
 
         // Calculate Total Marks
-        double averagePercentage = (double) totalMarks / 4;
+        double averagePercentage = (double) totalMarks / 6;
 
         // Display Total Marks and Average Percentage
         System.out.println("Total Marks: " + totalMarks);
