@@ -1,0 +1,24 @@
+This Java implementation creates a simple ATM (Automated Teller Machine) system with functionalities including withdrawing, depositing, and checking the balance.
+ATM interface is a Java program designed to simulate the functionality of an Automated Teller Machine (ATM). Here's an overview of its features and functionality:
+
+User Registration: The program allows users to register by providing their name, username, password, and account number.
+
+User Authentication: After registration, users can log in by providing their username and password.
+
+Main Menu: Upon logging in, users are presented with a main menu with options to perform various transactions:
+
+Withdraw: Allows users to withdraw cash from their account.
+Deposit: Allows users to deposit cash into their account.
+Transfer: Allows users to transfer funds to another account.
+Check Balance: Allows users to check the current balance in their account.
+Transaction History: Displays a history of transactions performed by the user.
+Transaction Handling: The program includes methods to handle withdrawals, deposits, transfers, and checking balance. These methods interact with the user's bank account to perform the requested transactions.
+
+Error Handling: The program provides appropriate error messages to the user in case of insufficient balance, invalid input, or other errors.
+
+Transaction History: Users can view their transaction history, which includes details such as the transaction amount and type (withdrawal, deposit, or transfer).
+
+User Interaction: The program uses a command-line interface, where users interact by entering numeric choices corresponding to the options presented in the menu.
+
+Overall, your ATM interface provides a basic yet functional simulation of an ATM machine, allowing users to perform common banking transactions conveniently.
+

@@ -1,1 +1,0 @@
-This Java implementation creates a simple ATM (Automated Teller Machine) system with functionalities including withdrawing, depositing, and checking the balance.
